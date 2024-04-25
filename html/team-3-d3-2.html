@@ -1,0 +1,51 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Sightings vs Excessive Drinking by County</title>
+    </head>
+    <body class="observablehq">
+    	<style>
+	    body {
+	            font-family: 'Roboto', sans-serif;
+	            color: #333;
+	            margin: 0;
+	            padding: 0;
+	        }
+	        .container {
+	            max-width: 800px;
+	            margin: 0 auto;
+	            justify-content: center;
+	        }
+	        .title {
+	            font-size: 32px;
+	            font-weight: 700;
+	            color: #FFFFFF;
+	            text-align: center;
+	            margin-bottom: 30px;
+	            margin-top: 30px;
+	            background-color: #874CCC;
+	            text-shadow: -1px -1px 0 #000,  
+	                  1px -1px 0 #000,
+	                 -1px  1px 0 #000,
+	                  1px  1px 0 #000;
+	        }
+	        #visualization {
+	            text-align: center;
+	        }
+	        .divider {
+	            border-top: 5px solid #333; /* Customize border color and thickness */
+	            margin-bottom: 30px; /* Adjust margin as needed */
+	        }
+	    </style>
+	    <div> 
+	      <p class="title">Correlation between excessive drinking<br/>and county of sighting</p>
+	    </div>
+	    <div class="divider"></div>
+	    <!-- Import Bivariatie visualization SVG image.-->
+	    <div class="container">
+	    	<object data="../data/bfro_bivariate.svg" width="975" height="610"></object>
+	    </div>
+   	</body>
+
+</html>

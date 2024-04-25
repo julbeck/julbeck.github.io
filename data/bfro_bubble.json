@@ -1,0 +1,542 @@
+[
+    {
+        "cluster": "bfro.Headline.near",
+        "count": 2181
+    },
+    {
+        "cluster": "bfro.Headline.sighting",
+        "count": 1373
+    },
+    {
+        "cluster": "bfro.Headline.possible",
+        "count": 1030
+    },
+    {
+        "cluster": "bfro.Headline.encounter",
+        "count": 510
+    },
+    {
+        "cluster": "bfro.Headline.creature",
+        "count": 449
+    },
+    {
+        "cluster": "bfro.Headline.night",
+        "count": 435
+    },
+    {
+        "cluster": "bfro.Headline.lake",
+        "count": 412
+    },
+    {
+        "cluster": "bfro.Headline.vocalizations",
+        "count": 406
+    },
+    {
+        "cluster": "bfro.Headline.two",
+        "count": 390
+    },
+    {
+        "cluster": "bfro.Headline.outside",
+        "count": 388
+    },
+    {
+        "cluster": "bfro.Headline.large",
+        "count": 385
+    },
+    {
+        "cluster": "bfro.Headline.man",
+        "count": 382
+    },
+    {
+        "cluster": "bfro.Headline.daylight",
+        "count": 367
+    },
+    {
+        "cluster": "bfro.Headline.road",
+        "count": 364
+    },
+    {
+        "cluster": "bfro.Headline.bigfoot",
+        "count": 352
+    },
+    {
+        "cluster": "bfro.LocationDetails.road",
+        "count": 1597
+    },
+    {
+        "cluster": "bfro.LocationDetails.unknown",
+        "count": 1222
+    },
+    {
+        "cluster": "bfro.LocationDetails.miles",
+        "count": 999
+    },
+    {
+        "cluster": "bfro.LocationDetails.area",
+        "count": 751
+    },
+    {
+        "cluster": "bfro.LocationDetails.north",
+        "count": 696
+    },
+    {
+        "cluster": "bfro.LocationDetails.lake",
+        "count": 657
+    },
+    {
+        "cluster": "bfro.LocationDetails.south",
+        "count": 582
+    },
+    {
+        "cluster": "bfro.LocationDetails.river",
+        "count": 552
+    },
+    {
+        "cluster": "bfro.LocationDetails.right",
+        "count": 543
+    },
+    {
+        "cluster": "bfro.LocationDetails.near",
+        "count": 531
+    },
+    {
+        "cluster": "bfro.LocationDetails.west",
+        "count": 499
+    },
+    {
+        "cluster": "bfro.LocationDetails.hwy",
+        "count": 491
+    },
+    {
+        "cluster": "bfro.LocationDetails.east",
+        "count": 487
+    },
+    {
+        "cluster": "bfro.LocationDetails.rd",
+        "count": 487
+    },
+    {
+        "cluster": "bfro.LocationDetails.mile",
+        "count": 455
+    },
+    {
+        "cluster": "bfro.Observed.back",
+        "count": 3456
+    },
+    {
+        "cluster": "bfro.Observed.like",
+        "count": 3347
+    },
+    {
+        "cluster": "bfro.Observed.heard",
+        "count": 3330
+    },
+    {
+        "cluster": "bfro.Observed.road",
+        "count": 3009
+    },
+    {
+        "cluster": "bfro.Observed.saw",
+        "count": 3005
+    },
+    {
+        "cluster": "bfro.Observed.around",
+        "count": 2555
+    },
+    {
+        "cluster": "bfro.Observed.area",
+        "count": 2399
+    },
+    {
+        "cluster": "bfro.Observed.could",
+        "count": 2305
+    },
+    {
+        "cluster": "bfro.Observed.see",
+        "count": 2278
+    },
+    {
+        "cluster": "bfro.Observed.one",
+        "count": 2273
+    },
+    {
+        "cluster": "bfro.Observed.us",
+        "count": 2196
+    },
+    {
+        "cluster": "bfro.Observed.time",
+        "count": 2153
+    },
+    {
+        "cluster": "bfro.Observed.woods",
+        "count": 2101
+    },
+    {
+        "cluster": "bfro.Observed.something",
+        "count": 1979
+    },
+    {
+        "cluster": "bfro.Observed.went",
+        "count": 1958
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.heard",
+        "count": 582
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.like",
+        "count": 578
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.area",
+        "count": 474
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.nothing",
+        "count": 371
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.back",
+        "count": 306
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.saw",
+        "count": 292
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.one",
+        "count": 289
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.found",
+        "count": 264
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.time",
+        "count": 254
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.around",
+        "count": 253
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.something",
+        "count": 246
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.see",
+        "count": 244
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.night",
+        "count": 242
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.could",
+        "count": 234
+    },
+    {
+        "cluster": "bfro.AlsoNoticed.would",
+        "count": 232
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.one",
+        "count": 502
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.witnesses",
+        "count": 441
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.two",
+        "count": 413
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.saw",
+        "count": 342
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.friend",
+        "count": 326
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.witness",
+        "count": 279
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.wife",
+        "count": 276
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.heard",
+        "count": 272
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.me",
+        "count": 271
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.us",
+        "count": 254
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.myself",
+        "count": 230
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.driving",
+        "count": 228
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.time",
+        "count": 227
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.car",
+        "count": 191
+    },
+    {
+        "cluster": "bfro.OtherWitnesses.none",
+        "count": 190
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.pm",
+        "count": 1434
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.clear",
+        "count": 1210
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.night",
+        "count": 893
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.am",
+        "count": 795
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.around",
+        "count": 703
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.dark",
+        "count": 660
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.day",
+        "count": 590
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.weather",
+        "count": 502
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.light",
+        "count": 497
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.morning",
+        "count": 487
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.sunny",
+        "count": 452
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.afternoon",
+        "count": 386
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.early",
+        "count": 375
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.moon",
+        "count": 369
+    },
+    {
+        "cluster": "bfro.TimeAndConditions.late",
+        "count": 298
+    },
+    {
+        "cluster": "bfro.Environment.area",
+        "count": 1707
+    },
+    {
+        "cluster": "bfro.Environment.forest",
+        "count": 1438
+    },
+    {
+        "cluster": "bfro.Environment.pine",
+        "count": 1010
+    },
+    {
+        "cluster": "bfro.Environment.trees",
+        "count": 943
+    },
+    {
+        "cluster": "bfro.Environment.creek",
+        "count": 845
+    },
+    {
+        "cluster": "bfro.Environment.woods",
+        "count": 775
+    },
+    {
+        "cluster": "bfro.Environment.road",
+        "count": 752
+    },
+    {
+        "cluster": "bfro.Environment.wooded",
+        "count": 746
+    },
+    {
+        "cluster": "bfro.Environment.river",
+        "count": 723
+    },
+    {
+        "cluster": "bfro.Environment.side",
+        "count": 552
+    },
+    {
+        "cluster": "bfro.Environment.small",
+        "count": 534
+    },
+    {
+        "cluster": "bfro.Environment.lake",
+        "count": 529
+    },
+    {
+        "cluster": "bfro.Environment.near",
+        "count": 458
+    },
+    {
+        "cluster": "bfro.Environment.thick",
+        "count": 418
+    },
+    {
+        "cluster": "bfro.Environment.large",
+        "count": 355
+    },
+    {
+        "cluster": "bfro.FollowUpReport.witness",
+        "count": 12189
+    },
+    {
+        "cluster": "bfro.FollowUpReport.area",
+        "count": 6773
+    },
+    {
+        "cluster": "bfro.FollowUpReport.creature",
+        "count": 3950
+    },
+    {
+        "cluster": "bfro.FollowUpReport.animal",
+        "count": 3930
+    },
+    {
+        "cluster": "bfro.FollowUpReport.heard",
+        "count": 3519
+    },
+    {
+        "cluster": "bfro.FollowUpReport.could",
+        "count": 3261
+    },
+    {
+        "cluster": "bfro.FollowUpReport.one",
+        "count": 3254
+    },
+    {
+        "cluster": "bfro.FollowUpReport.like",
+        "count": 3101
+    },
+    {
+        "cluster": "bfro.FollowUpReport.feet",
+        "count": 3023
+    },
+    {
+        "cluster": "bfro.FollowUpReport.road",
+        "count": 2962
+    },
+    {
+        "cluster": "bfro.FollowUpReport.saw",
+        "count": 2932
+    },
+    {
+        "cluster": "bfro.FollowUpReport.time",
+        "count": 2917
+    },
+    {
+        "cluster": "bfro.FollowUpReport.back",
+        "count": 2892
+    },
+    {
+        "cluster": "bfro.FollowUpReport.said",
+        "count": 2803
+    },
+    {
+        "cluster": "bfro.FollowUpReport.see",
+        "count": 2666
+    },
+    {
+        "cluster": "bfro.MediaObserved.said",
+        "count": 2733
+    },
+    {
+        "cluster": "bfro.MediaObserved.bigfoot",
+        "count": 1591
+    },
+    {
+        "cluster": "bfro.MediaObserved.creature",
+        "count": 1059
+    },
+    {
+        "cluster": "bfro.MediaObserved.one",
+        "count": 913
+    },
+    {
+        "cluster": "bfro.MediaObserved.area",
+        "count": 674
+    },
+    {
+        "cluster": "bfro.MediaObserved.like",
+        "count": 669
+    },
+    {
+        "cluster": "bfro.MediaObserved.saw",
+        "count": 650
+    },
+    {
+        "cluster": "bfro.MediaObserved.two",
+        "count": 583
+    },
+    {
+        "cluster": "bfro.MediaObserved.it",
+        "count": 563
+    },
+    {
+        "cluster": "bfro.MediaObserved.sightings",
+        "count": 529
+    },
+    {
+        "cluster": "bfro.MediaObserved.people",
+        "count": 510
+    },
+    {
+        "cluster": "bfro.MediaObserved.seen",
+        "count": 500
+    },
+    {
+        "cluster": "bfro.MediaObserved.found",
+        "count": 474
+    },
+    {
+        "cluster": "bfro.MediaObserved.something",
+        "count": 470
+    },
+    {
+        "cluster": "bfro.MediaObserved.could",
+        "count": 446
+    }
+]

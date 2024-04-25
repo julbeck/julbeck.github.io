@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
+    <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css"/>
+    <title>Weather Distribution of Sightings</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <style>
+    body {
+            font-family: 'Roboto', sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 700;
+            color: #FFFFFF;
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 30px;
+            background-color: #808080;
+            text-shadow: -1px -1px 0 #000,  
+                  1px -1px 0 #000,
+                 -1px  1px 0 #000,
+                  1px  1px 0 #000;
+        }
+        #visualization {
+            text-align: center;
+        }
+        .divider {
+            border-top: 5px solid #333; /* Customize border color and thickness */
+            margin-bottom: 30px; /* Adjust margin as needed */
+        }
+    </style>
+    <div> 
+      <p class="title"> Distribution of weather conditions <br/> and season of sighting </p>
+    </div>
+    <div class="divider"></div>
+    <script type="text/javascript" src="https://d3js.org/d3.v5.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-array.v3.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-fetch.v3.min.js"></script>
+    <script src="https://unpkg.com/d3-array@1"></script>
+    <script src="https://unpkg.com/d3-collection@1"></script>
+    <script src="https://unpkg.com/d3-path@1"></script>
+    <script src="https://unpkg.com/d3-shape@1"></script>
+    <script src="https://unpkg.com/d3-sankey@0"></script>
+
+    <div id="visualization"></div>
+    <script src="../js/parallelize.js"></script>
+
+  </body>
+</html>

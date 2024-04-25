@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--meta name="viewport" content="width=device-width, initial-scale=1.0"-->
+    <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css"/>
+    <title>Objects Detected by Sighting Location</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <style>
+    body {
+            font-family: 'Roboto', sans-serif;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 20px;
+
+        }
+        .title {
+            font-size: 32px;
+            font-weight: 700;
+            color: #FFFFFF;
+            text-align: center;
+            margin-bottom: 30px;
+            margin-top: 30px;
+            background-color: #59B4C3;
+            text-shadow: -1px -1px 0 #000,  
+                  1px -1px 0 #000,
+                 -1px  1px 0 #000,
+                  1px  1px 0 #000;
+        }
+        #visualization {
+            text-align: center;
+            margin: 0 auto;
+            width: 928px;
+        }
+        .divider {
+            border-top: 5px solid #333;
+            margin-bottom: 30px;
+        }
+    </style>
+    <div> 
+      <p class="title"> Objects detected in generated images <br/> by state in which sighting occurred </p>
+    </div>
+    <div class="divider"></div>
+    <script type="text/javascript" src="https://d3js.org/d3.v7.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-array.v3.min.js"></script>
+    <script type="text/javascript" src="https://d3js.org/d3-fetch.v3.min.js"></script>
+    <div id="visualization"></div>
+    <script src="../js/zoomablecircle.js"></script>
+
+  </body>
+</html>

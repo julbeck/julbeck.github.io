@@ -1,0 +1,58 @@
+<html>
+
+    <head>
+        <meta charset="utf-8">
+        <title>Common Words of Sighting Reports</title>
+    </head>
+
+    <body class="observablehq">
+        <style>
+        body {
+                font-family: 'Roboto', sans-serif;
+                color: #333;
+                margin: 0;
+                padding: 0;
+            }
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                justify-content: center;
+            }
+            .title {
+                font-size: 32px;
+                font-weight: 700;
+                color: #FFFFFF;
+                text-align: center;
+                margin-bottom: 30px;
+                margin-top: 30px;
+                background-color: #F6995C;
+                text-shadow: -1px -1px 0 #000,  
+                      1px -1px 0 #000,
+                     -1px  1px 0 #000,
+                      1px  1px 0 #000;
+            }
+            #visualization {
+                text-align: center;
+            }
+            .divider {
+                border-top: 5px solid #333; /* Customize border color and thickness */
+                margin-bottom: 30px; /* Adjust margin as needed */
+            }
+        </style>
+        <div> 
+          <p class="title"> Common word counts for<br/>report attributes</p>
+        </div>
+        <div class="divider"></div>
+
+        <div>
+        <!-- Import the legend bar. -->
+            <object data="bubble_legend.html" width="928" height="50"></object>
+        </div>  
+        <!-- Import Bubble chart SVG image.-->
+        <div class="container">
+            <object data="../data/bfro_bubble.svg" width="928" height="928"></object>
+        </div>  
+
+    </body>
+
+</html>
